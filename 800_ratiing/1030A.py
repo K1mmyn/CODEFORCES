@@ -6,3 +6,4 @@ if 1 in opinions:
 else:
   print("EASY")
 
+
