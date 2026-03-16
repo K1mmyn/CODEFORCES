@@ -1,0 +1,1 @@
+{"name":"Local: 431A","url":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/800_ratiing/431A.py","tests":[{"id":1756293085908,"input":"1 2 3 4\n123214\n","output":"13\n"},{"id":1756293093934,"input":"1 5 3 2\n11221\n","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/800_ratiing/431A.py","group":"local","local":true}

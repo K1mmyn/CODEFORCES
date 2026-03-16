@@ -1,0 +1,1 @@
+{"name":"Local: 405A","url":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/900_rating/405A.py","tests":[{"id":1756268806736,"input":"4\n3 2 1 2\n","output":"1 2 2 3 \n"},{"id":1756268813353,"input":"3\n2 3 8\n","output":"2 3 8 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/900_rating/405A.py","group":"local","local":true}

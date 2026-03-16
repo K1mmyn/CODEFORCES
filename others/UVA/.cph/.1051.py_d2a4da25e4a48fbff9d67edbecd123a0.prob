@@ -1,0 +1,1 @@
+{"name":"Local: 1051","url":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/UVA/1051.py","tests":[{"id":1757652686292,"input":"3\n6241\n8191\n0","output":"no\nyes\nno"},{"id":1757652989691,"input":"3\n1\n2\n3\n","output":"no\nno\nno\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kimmy/UoA-Sem-1-2025/CODEFORCES/UVA/1051.py","group":"local","local":true}
